@@ -1,0 +1,45 @@
+# Ignore all .log files
+*.log
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore all .zip files
+*.zip
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all out files
+*.out
+
+# Ignore the "data" directory (useful for large datasets)
+asymmetry_model/
+backup/
+backup_pyfiles/
+code_preprocessing/
+codes_msynth/
+horovod/
+py_files/
+py_model/
+py_plots/ 
+py_resources/
+sh_files/
+DATA/
+OUT/
+rsna/
+CHECKPOINTS/
+DATA/
+equalization/
+preprocessing/
+
+
+# Ignore all files larger than 100MB (manual rule, not automatic)
+
+# Ignore all .DS_Store files (macOS)
+.DS_Store
+
+# Ignore VS Code settings and Python virtual environments
+.vscode/
+venv/
+__pycache__/
