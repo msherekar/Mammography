@@ -1,0 +1,16 @@
+torch>=1.7.0
+torchvision>=0.8.0
+mmcv>=2.0.0
+mmengine>=0.7.3
+mmcls>=1.0.0
+opencv-python>=4.5.0
+albumentations>=1.3.0
+pandas>=1.3.0
+numpy>=1.19.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+pydicom>=2.3.0
+dicomsdl>=0.109.0
+tqdm>=4.62.0
+gdcm>=3.0.0 
